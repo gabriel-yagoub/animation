@@ -1,0 +1,1 @@
+// Av någon outgrundlig anledning lyckades jag inte få Green Socket att funka med en extern JS utan var tvungen att köra inline.
